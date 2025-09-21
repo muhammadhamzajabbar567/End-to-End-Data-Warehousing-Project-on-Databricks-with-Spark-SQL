@@ -1,4 +1,4 @@
-# 🚀 End-to-End Data Warehousing Project (Databricks with Spark SQL)
+# 🚀 End-to-End Data Warehousing Project (Databricks Spark SQL)
 
 <div align="center">
 
